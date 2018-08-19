@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center"
+        />
+    <EditText
+        android:layout_marginTop="11dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Time"
+        android:id="@+id/time"/>
+
+    <EditText
+        android:layout_marginTop="11dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Address"
+        android:id="@+id/address"/>
+
+    <EditText
+            android:layout_marginTop="11dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:hint="Enter Id"
+            android:id="@+id/trans_Id"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Work Type"
+                android:id="@+id/workerType" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Worker Name"
+                android:id="@+id/workerName" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Status"
+            android:id="@+id/status"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter cost"
+            android:id="@+id/cost"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit"
+        android:layout_gravity="center"
+        android:text="submit"/>
+
+ </LinearLayout>

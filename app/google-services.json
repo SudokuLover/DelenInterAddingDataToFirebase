@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "44325596842",
+    "firebase_url": "https://delenintern.firebaseio.com",
+    "project_id": "delenintern",
+    "storage_bucket": "delenintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44325596842:android:6d905ec74783d8b4",
+        "android_client_info": {
+          "package_name": "com.example.gauranggoel.addingordersdelenintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44325596842-3kbufjm125ti40uk6f4dpm6n6069mf3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gauranggoel.addingordersdelenintern",
+            "certificate_hash": "1bbc90e8f8e5615d04df484d6e4cf709cf5346e2"
+          }
+        },
+        {
+          "client_id": "44325596842-dubmii87u76aeak6g9rpsovf0s69ac0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYW1JOrua9w8xbqcnJz4GNNpbWmQwlBeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44325596842-dubmii87u76aeak6g9rpsovf0s69ac0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44325596842:android:9a90db58fe2861e7",
+        "android_client_info": {
+          "package_name": "com.example.gauranggoel.delenhomeinterntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44325596842-pqpqlg2ssaas769rqcpucl242eln1peo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gauranggoel.delenhomeinterntask",
+            "certificate_hash": "1bbc90e8f8e5615d04df484d6e4cf709cf5346e2"
+          }
+        },
+        {
+          "client_id": "44325596842-dubmii87u76aeak6g9rpsovf0s69ac0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYW1JOrua9w8xbqcnJz4GNNpbWmQwlBeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44325596842-dubmii87u76aeak6g9rpsovf0s69ac0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
